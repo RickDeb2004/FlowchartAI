@@ -20,7 +20,7 @@ export const siteConfig: SiteConfig = {
     // },
   ],
   links: {
-    twitter: "https://twitter.com/akhilairi",
-    github: "https://github.com/akhilsharma90/FlowchartAI",
+    twitter: "https://twitter.com/debanjan-nit",
+    github: "https://github.com/RickDeb2004/FlowchartAI",
   },
 };
